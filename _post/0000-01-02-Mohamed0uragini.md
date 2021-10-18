@@ -2,7 +2,7 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+this is the second page -- welcome :) 
 Use the left arrow to go back!
 
 <!new file inserted>
